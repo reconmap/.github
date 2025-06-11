@@ -1,31 +1,70 @@
-# Reconmap security policy
-[![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev/bounties/disclose/?target=https%3A%2F%2Fgithub.com%2Freconmap%2Freconmap)
+# Reconmap Vulnerability Disclosure Policy
 
-Security is at the forefront of what we do. We make a significant effort to keep everything secure for our users, but if you happen to find parts of our code that are vulnerable please let us know through [huntr.dev](https://huntr.dev/bounties/disclose/?target=https%3A%2F%2Fgithub.com%2Freconmap%2Freconmap) so that we can address it.
+Reconmap is committed to maintaining the security and privacy of its users. We recognise the important role that security researchers and the wider community play in achieving this goal. This document describes our policy for reporting vulnerabilities in line with the [ISO/IEC 29147:2018 standard](https://www.iso.org/standard/72311.html).
 
-You can also get ahold of us is on our [Gitter community channel](https://gitter.im/reconmap/community).
+## 1. Purpose
 
-## Service Level Objectives
+This policy outlines the procedure for reporting potential security vulnerabilities to the Reconmap team. It aims to provide clear guidelines for vulnerability disclosure and handling, to ensure timely mitigation and responsible publication when appropriate.
 
-These are the timeframes in which we aim to resolve any security issue, based on their severity:
+## 2. Scope
 
-|Severity|Resolution time SLO|
-|-|-|
-|Critical|2 days|
-|High|5 days|
-|Medium|14 days|
-|Low|31 days|
+This policy applies to:
+- The Reconmap platform (web application, API, CLI tools)
+- All associated open-source code maintained under the [Reconmap GitHub organisation](https://github.com/reconmap)
 
-## Recognition
+## 3. Reporting a Vulnerability
 
-Anyone reporting a vulnerability will be added to our credits permanently. Bounty rewards are determined by industry-first equation from huntr.dev to understand the popularity, impact and value of repositories to the open source community.
+We encourage security researchers to report any suspected vulnerabilities by contacting us privately. Do **not** create public GitHub issues for security-related concerns.
 
-## Hall of fame
+**Contact Methods:**
+- [Confidential issue](https://github.com/reconmap/reconmap/security/advisories)
+- Gitter: [https://gitter.im/reconmap/community](https://gitter.im/reconmap/community)
+- Email (upon request or via a secure channel)
 
-Reconmap would like to thank the following people who have responsibly disclosed vulnerabilities to us:
+### Report Contents
+Please include the following information to help us triage and resolve the issue:
+- Description of the vulnerability
+- Affected component(s) and version(s)
+- Impact and potential severity
+- Steps to reproduce (PoC if applicable)
+- Suggested mitigation or remediation (optional)
 
-- Ioan Iuga (https://cyberlegion.io/)
-- Guilherme Rodrigues (https://twitter.com/guilhermesgi) and Brute Bee (https://twitter.com/BruteBee)
+For secure communication, we can provide a PGP key upon request.
 
-Please find the [FAQ](https://www.huntr.dev/faq) and [Responsible disclosure policy](https://www.huntr.dev/policy/) from huntr.dev.
+## 4. Acknowledgement and Response
 
+We will:
+- Acknowledge receipt of your report within **2 business days**
+- Provide regular status updates throughout the resolution process
+- Inform you when the issue has been resolved and publicly disclosed (if applicable)
+
+## 5. Resolution Timeframes
+
+| Severity | Target Resolution Time |
+|----------|------------------------|
+| Critical | Within 2 calendar days |
+| High     | Within 5 calendar days |
+| Medium   | Within 14 calendar days |
+| Low      | Within 31 calendar days |
+
+These targets may vary depending on complexity and impact.
+
+## 6. Disclosure
+
+We support coordinated vulnerability disclosure. After validation and resolution:
+- We may publish a public advisory with credit to the reporter (with consent)
+- We may delay disclosure if a coordinated release is necessary
+
+We request that reporters do **not** publicly disclose vulnerabilities prior to mutual agreement.
+
+## 7. Recognition
+
+We publicly recognise individuals who responsibly disclose security vulnerabilities. With the reporter’s permission, their name or handle will be listed in our Hall of Fame.
+
+## 8. Hall of Fame
+
+Reconmap would like to thank the following contributors for their responsible disclosure efforts:
+
+- Ioan Iuga ([cyberlegion.io](https://cyberlegion.io/))
+- Guilherme Rodrigues ([@guilhermesgi](https://twitter.com/guilhermesgi))
+- Brute Bee ([Twitter](https://twitter.com/BruteBee))

@@ -1,4 +1,6 @@
-# 🔍 Reconmap
+# Reconmap
+
+![Reconmap logo](https://raw.githubusercontent.com/reconmap/.github/main/profile/reconmap-logo.png)
 
 **Open‑source collaboration platform for InfoSec professionals**  
 Plan, automate, execute and report on pentest and vulnerability assessment engagements — from reconnaissance to final report — with speed, precision and teamwork.
@@ -16,6 +18,7 @@ Reconmap is an open-source platform designed to support security teams throughou
 - **Auto‑capture of outputs** and vulnerability tracking  
 - **Professional report generation**: export as Word, Markdown or LaTeX  
 - **Rich analytics**, dashboards and integrations across the toolchain  
+- [Many more features...](https://reconmap.com/overview/features/)
 
 ---
 

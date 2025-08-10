@@ -1,4 +1,6 @@
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKJM12YKHqvvATHkdIKopeQ?style=flat&logo=youtube&label=YouTube&link=https%3A%2F%2Fwww.youtube.com%2Freconmap)](https://www.youtube.com/reconmap)
+[![Bluesky](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dnetfoe.com&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20us%20on%20BlueSky&style=flat)](https://bsky.app/profile/netfoe.com)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKJM12YKHqvvATHkdIKopeQ?style=flat&logo=youtube&label=Subscribe%20to%20our%20YouTube%20channel&link=https%3A%2F%2Fwww.youtube.com%2Freconmap)](https://www.youtube.com/reconmap)
+[![Gitter](https://badges.gitter.im/reconmap/community.svg)](https://gitter.im/reconmap/community)
 
 # Reconmap
 
@@ -15,39 +17,39 @@ Plan, automate, execute and report on pentest and vulnerability assessment engag
 
 Reconmap is an open-source platform designed to support security teams throughout the engagement lifecycle:
 
-- **Centralised project and task management** for clients, scopes and assessments  
-- **Command automation**: execute shell or custom modules on demand or on schedule  
-- **Auto‑capture of outputs** and vulnerability tracking  
-- **Professional report generation**: export as Word, Markdown or LaTeX  
-- **Rich analytics**, dashboards and integrations across the toolchain  
+- **Centralised project and task management** for clients, scopes and assessments
+- **Command automation**: execute shell or custom modules on demand or on schedule
+- **Auto‑capture of outputs** and vulnerability tracking
+- **Professional report generation**: export as Word, Markdown or LaTeX
+- **Rich analytics**, dashboards and integrations across the toolchain
 - [Many more features...](https://reconmap.com/overview/features/)
 
 ---
 
-## 🎯 Why Reconmap?
+## Why Reconmap?
 
-- **Streamlined workflows**: from planning to reporting in a few clicks  
-- **Enhanced collaboration**: keep everyone on the same page  
-- **Automated reporting**: cut down admin burden — focus on analysis  
-- **Adaptable & extensible**: integrate with your stack and tooling  
+- **Streamlined workflows**: from planning to reporting in a few clicks
+- **Enhanced collaboration**: keep everyone on the same page
+- **Automated reporting**: cut down admin burden — focus on analysis
+- **Adaptable & extensible**: integrate with your stack and tooling
 
 ---
 
 ## 📦 Try It Now
 
 - **Live demo**: experience Reconmap hands‑on [DEMO](https://reconmap.com/overview/live-demo/)
-- **Hosted SaaS**: let us handle hosting — via [Netfoe](https://netfoe.com)  
+- **Hosted SaaS**: let us handle hosting — via [Netfoe](https://netfoe.com)
 
 ---
 
-## 🧩 Core Repositories
+## Core Repositories
 
-| Repository               | Description                                 |
-|--------------------------|---------------------------------------------|
-| [`reconmap`](https://github.com/reconmap/reconmap) | Core platform: API, scheduler, DB               |
-| [`web-client`](https://github.com/reconmap/web-client) | Main React web interface                        |
-| [`command-line-tools`](https://github.com/reconmap/command-line-tools) | CLI, agent, and automation tools                |
-| [`documentation`](https://github.com/reconmap/documentation) | mkdocs-based docs for users, admins, developers |
+| Repository                                                                             | Description                                     |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [`reconmap`](https://github.com/reconmap/reconmap)                                     | Core platform: API, scheduler, DB               |
+| [`web-client`](https://github.com/reconmap/web-client)                                 | Main React web interface                        |
+| [`command-line-tools`](https://github.com/reconmap/command-line-tools)                 | CLI, agent, and automation tools                |
+| [`documentation`](https://github.com/reconmap/documentation)                           | mkdocs-based docs for users, admins, developers |
 | Plus: `latex-docs`, `rest-api`, `model-definitions`, `keycloak-custom`, `homebrew-tap` |
 
 ---
@@ -56,9 +58,9 @@ Reconmap is an open-source platform designed to support security teams throughou
 
 Complete manuals are available:
 
-- Admin guide  
-- User handbook  
-- Developer & API reference  
+- Admin guide
+- User handbook
+- Developer & API reference
 
 Visit [reconmap.com](https://reconmap.com) for full documentation.
 
@@ -68,28 +70,28 @@ Visit [reconmap.com](https://reconmap.com) for full documentation.
 
 Reconmap is community-driven — your help makes it better! Here's how to get involved:
 
-- ⭐ Star the project  
-- ✍️ Improve documentation (user, admin, developer manuals)  
-- 💡 Suggest or develop new features  
-- 🐞 Report issues or vulnerabilities  
-- 🤝 Join discussions or open PRs  
+- ⭐ Star the project
+- Improve documentation (user, admin, developer manuals)
+- Suggest or develop new features
+- Report issues or vulnerabilities
+- Join discussions or open PRs
 
 **Please review our Contributing Guidelines before getting started.**
 
 ---
 
-## 📄 Licence & Policies
+## Licence & Policies
 
-- **License**: Apache‑2.0  
-- **Code of Conduct** and **Security Policy** are available in the respective repositories  
+- **License**: Apache‑2.0
+- **Code of Conduct** and **Security Policy** are available in the respective repositories
 
 ---
 
 ## 📬 Stay in Touch
 
-- Use the **Discussions** tab to participate in conversations  
-- Report bugs or request features in the **Issues** tab  
-- Chat with the community on our Gitter channel  
+- Use the **Discussions** tab to participate in conversations
+- Report bugs or request features in the **Issues** tab
+- Chat with the community on our Gitter channel
 
 ---
 

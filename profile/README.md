@@ -1,6 +1,5 @@
 [![Bluesky](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dnetfoe.com&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20us%20on%20BlueSky&style=flat)](https://bsky.app/profile/netfoe.com)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKJM12YKHqvvATHkdIKopeQ?style=flat&logo=youtube&label=Subscribe%20to%20our%20YouTube%20channel&link=https%3A%2F%2Fwww.youtube.com%2Freconmap)](https://www.youtube.com/reconmap)
-[![Gitter](https://badges.gitter.im/reconmap/community.svg)](https://gitter.im/reconmap/community)
 
 # Reconmap
 
@@ -9,7 +8,7 @@
 **Open‑source collaboration platform for InfoSec professionals**  
 Plan, automate, execute and report on pentest and vulnerability assessment engagements — from reconnaissance to final report — with speed, precision and teamwork.
 
-![Reconmap's screenshot](https://github.com/reconmap/reconmap/blob/master/images/screenshot.png)
+![Reconmap's screenshot](https://raw.githubusercontent.com/reconmap/reconmap/master/images/screenshot.png)
 
 ---
 
@@ -39,18 +38,6 @@ Reconmap is an open-source platform designed to support security teams throughou
 
 - **Live demo**: experience Reconmap hands‑on [DEMO](https://reconmap.com/overview/live-demo/)
 - **Hosted SaaS**: let us handle hosting — via [Netfoe](https://netfoe.com)
-
----
-
-## Core Repositories
-
-| Repository                                                                             | Description                                     |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [`reconmap`](https://github.com/reconmap/reconmap)                                     | Core platform: API, scheduler, DB               |
-| [`web-client`](https://github.com/reconmap/web-client)                                 | Main React web interface                        |
-| [`command-line-tools`](https://github.com/reconmap/command-line-tools)                 | CLI, agent, and automation tools                |
-| [`documentation`](https://github.com/reconmap/documentation)                           | mkdocs-based docs for users, admins, developers |
-| Plus: `latex-docs`, `rest-api`, `model-definitions`, `keycloak-custom`, `homebrew-tap` |
 
 ---
 
@@ -89,9 +76,8 @@ Reconmap is community-driven — your help makes it better! Here's how to get in
 
 ## 📬 Stay in Touch
 
-- Use the **Discussions** tab to participate in conversations
+- Use the [discussions](https://github.com/orgs/reconmap/discussions) tab to participate in conversations
 - Report bugs or request features in the **Issues** tab
-- Chat with the community on our Gitter channel
 
 ---
 

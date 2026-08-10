@@ -1,8 +1,7 @@
-[![Bluesky](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dnetfoe.com&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20us%20on%20BlueSky&style=flat)](https://bsky.app/profile/netfoe.com)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCKJM12YKHqvvATHkdIKopeQ?style=flat&logo=youtube&label=Subscribe%20to%20our%20YouTube%20channel&link=https%3A%2F%2Fwww.youtube.com%2Freconmap)](https://www.youtube.com/reconmap)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCKJM12YKHqvvATHkdIKopeQ?style=flat&logo=youtube&label=YouTube%20channel&link=https%3A%2F%2Fwww.youtube.com%2Freconmap)](https://www.youtube.com/reconmap)
 
 
-![Reconmap logo](https://raw.githubusercontent.com/reconmap/.github/main/profile/reconmap-logo.png)
+![Reconmap logo](./reconmap-logo.png)
 
 **Open‑source collaboration platform for InfoSec professionals**  
 Plan, automate, execute and report on pentest and vulnerability assessment engagements — from reconnaissance to final report — with speed, precision and teamwork.
@@ -61,6 +60,10 @@ Reconmap is community-driven, your help makes it better! Here's how to get invol
 
 <p>
   <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+    <img src="./digitalocean.svg" width="201px">
+  </a>
+  <br/>
+  <a href="https://snyk.io/?utm_source=open-source&utm_medium=pg-ptr&utm_campaign=ref-2501-osp&utm_content=pg-cta">
+    <img src="./SnykSecureDeveloperBadge.png" width="201px" />
   </a>
 </p>

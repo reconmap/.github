@@ -65,6 +65,7 @@ We publicly recognise individuals who responsibly disclose security vulnerabilit
 
 Reconmap would like to thank the following contributors for their responsible disclosure efforts:
 
-- Ioan Iuga (cyberlegion.io)
-- Guilherme Rodrigues (@guilhermesgi)
-- Brute Bee ([Twitter](https://twitter.com/BruteBee))
+- 2021 Ioan Iuga (cyberlegion.io)
+- 2023 Guilherme Rodrigues (@guilhermesgi)
+- 2024 Brute Bee ([Twitter](https://twitter.com/BruteBee))
+- 2026-06-21 George Chen (https://github.com/geo-chen)

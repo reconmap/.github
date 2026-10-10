@@ -48,7 +48,7 @@ Reconmap is community-driven, your help makes it better! Here's how to get invol
 
 ## Licence & Policies
 
-- **License**: Apache‑2.0
+- **License**: MIT
 - **[Code of Conduct](https://github.com/reconmap/reconmap?tab=coc-ov-file#readme)** and **[Security Policy](https://github.com/reconmap/reconmap?tab=security-ov-file#readme)**
 
 ## 📬 Stay in Touch
